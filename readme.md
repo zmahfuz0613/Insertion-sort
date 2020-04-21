@@ -5,6 +5,7 @@
 [Quick Video](https://www.youtube.com/watch?v=OGzPmgsI-pQ)
 
 ![Diagram](./insertionsort.png)
+
 [Visualization](https://visualgo.net/en/sorting)
 
 [![Dance](sortDance.png)](https://www.youtube.com/watch?v=ROalU379l3U)
