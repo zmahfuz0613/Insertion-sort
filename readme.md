@@ -24,6 +24,15 @@ Only has to run through a nearly sorted array one time making a simple compariso
 
 `let arr = [1,2,3,4]`
 
+
+### Pseudocode
+
+  1. start by picking the second element in the array.
+  2. compare second element with the one before it and swap if needed.
+  3. contuine to the next element(-1) and if not in the correct order iterate over the sorted portion to place the element in the correct place.
+  4. repeat until the array is sorted.
+
+
 ### Resources
 
 [Insertion Sorting JS](https://dev.to/ryan_dunton/insertion-sorting-for-beginners-in-js------fkg)
